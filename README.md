@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 My name is Thanchanok Kromsaeng
 
-<!--
-**THANCHAJOR/THANCHAJOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student from Computer Science of Burapha University ⭐
+- ✏️ studying Java language
+- 💻 I'm beginner programmer
+- 🩷 2006
+  
+### language 🌐
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
+### tools ⚙️
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me ☎️
+- janjah0401@gmail.com
+- 67160260@go.buu.ac.th
+
+### stats 🔥
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THANCHAJOR)](https://github.com/anuraghazra/github-readme-stats)
