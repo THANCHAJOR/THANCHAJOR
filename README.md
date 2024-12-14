@@ -20,5 +20,6 @@
 - janjah0401@gmail.com
 - 67160260@go.buu.ac.th
 
+<!--
 ### stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THANCHAJOR)](https://github.com/anuraghazra/github-readme-stats)
